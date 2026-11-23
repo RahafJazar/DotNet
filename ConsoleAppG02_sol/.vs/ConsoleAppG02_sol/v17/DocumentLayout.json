@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\DotNet\\ConsoleAppG02_sol\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AFA917F-074E-4109-BC2D-4EA456A36FDC}|Fundemantals\\Fundemantals.csproj|d:\\dotnet\\consoleappg02_sol\\fundemantals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFA917F-074E-4109-BC2D-4EA456A36FDC}|Fundemantals\\Fundemantals.csproj|solutionrelative:fundemantals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|d:\\dotnet\\consoleappg02_sol\\consoleappg02\\consoleappg02.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|solutionrelative:consoleappg02\\consoleappg02.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|d:\\dotnet\\consoleappg02_sol\\consoleappg02\\consoleappg02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|solutionrelative:consoleappg02\\consoleappg02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|d:\\dotnet\\consoleappg02_sol\\consoleappg02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|solutionrelative:consoleappg02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,8 +45,50 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ConsoleAppG02_sol\\Fundemantals\\Program.cs",
+              "RelativeDocumentMoniker": "Fundemantals\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ConsoleAppG02_sol\\Fundemantals\\Program.cs",
+              "RelativeToolTip": "Fundemantals\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T07:20:54.629Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ConsoleAppG02",
+              "DocumentMoniker": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\ConsoleAppG02.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppG02\\ConsoleAppG02.csproj",
+              "ToolTip": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\ConsoleAppG02.csproj",
+              "RelativeToolTip": "ConsoleAppG02\\ConsoleAppG02.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-23T07:19:55.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleAppG02.csproj",
+              "DocumentMoniker": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\ConsoleAppG02.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppG02\\ConsoleAppG02.csproj",
+              "ToolTip": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\ConsoleAppG02.csproj",
+              "RelativeToolTip": "ConsoleAppG02\\ConsoleAppG02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-22T08:31:28.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\Class1.cs",
               "RelativeDocumentMoniker": "ConsoleAppG02\\Class1.cs",
@@ -42,25 +96,20 @@
               "RelativeToolTip": "ConsoleAppG02\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T13:55:07.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-19T13:55:07.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppG02\\Program.cs",
               "ToolTip": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\Program.cs",
               "RelativeToolTip": "ConsoleAppG02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-19T13:46:07.34Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
             }
           ]
         }
