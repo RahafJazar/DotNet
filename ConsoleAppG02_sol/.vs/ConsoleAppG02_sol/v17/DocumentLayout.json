@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|d:\\dotnet\\consoleappg02_sol\\consoleappg02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|solutionrelative:consoleappg02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|d:\\dotnet\\consoleappg02_sol\\consoleappg02\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D66D746-7250-4F44-93CA-4D85F755311F}|ConsoleAppG02\\ConsoleAppG02.csproj|solutionrelative:consoleappg02\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,17 +29,8 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\Class1.cs",
-              "RelativeDocumentMoniker": "ConsoleAppG02\\Class1.cs",
-              "ToolTip": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\Class1.cs",
-              "RelativeToolTip": "ConsoleAppG02\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T13:55:07.477Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -53,14 +40,10 @@
               "RelativeDocumentMoniker": "ConsoleAppG02\\Program.cs",
               "ToolTip": "D:\\DotNet\\ConsoleAppG02_sol\\ConsoleAppG02\\Program.cs",
               "RelativeToolTip": "ConsoleAppG02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T13:46:07.34Z",
+              "WhenOpened": "2026-11-24T08:19:15.456Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
             }
           ]
         }
